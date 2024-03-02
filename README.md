@@ -1,5 +1,6 @@
  # Google-Data-Studio-Project
-Wave sale Shoes Dashboard: Unveiling dynamic insights through Google Data Studio's interactive prowess for informed decision-making
+**Wave sale Shoes Dashboard:**
+Unveiling dynamic insights through Google Data Studio's interactive prowess for informed decision-making
 
 **Description:**
 Step into the world of data-driven decision-making with the Wave Sale Shoes Dashboard! Crafted meticulously on Google Data Studio, this dynamic dashboard offers a comprehensive overview of sales analytics for your shoe business. 
